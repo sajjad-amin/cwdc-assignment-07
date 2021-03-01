@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "./static/css/main.31ccbcbd.chunk.css",
+    "main.js": "./static/js/main.debd3b8a.chunk.js",
+    "main.js.map": "./static/js/main.debd3b8a.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.dbb545e2.js",
+    "runtime-main.js.map": "./static/js/runtime-main.dbb545e2.js.map",
+    "static/css/2.150d169a.chunk.css": "./static/css/2.150d169a.chunk.css",
+    "static/js/2.e2282928.chunk.js": "./static/js/2.e2282928.chunk.js",
+    "static/js/2.e2282928.chunk.js.map": "./static/js/2.e2282928.chunk.js.map",
+    "static/js/3.c3823033.chunk.js": "./static/js/3.c3823033.chunk.js",
+    "static/js/3.c3823033.chunk.js.map": "./static/js/3.c3823033.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.150d169a.chunk.css.map": "./static/css/2.150d169a.chunk.css.map",
+    "static/css/main.31ccbcbd.chunk.css.map": "./static/css/main.31ccbcbd.chunk.css.map",
+    "static/js/2.e2282928.chunk.js.LICENSE.txt": "./static/js/2.e2282928.chunk.js.LICENSE.txt",
+    "static/media/360px-Liton_Das.9b67519c.jpg": "./static/media/360px-Liton_Das.9b67519c.jpg",
+    "static/media/360px-Mustafizur_Rahman.4e2fc52e.jpg": "./static/media/360px-Mustafizur_Rahman.4e2fc52e.jpg",
+    "static/media/360px-Shakib_Al_Hasan.8a28ae61.jpg": "./static/media/360px-Shakib_Al_Hasan.8a28ae61.jpg",
+    "static/media/361px-Mahmudullah_Riyad.d0d4e605.jpg": "./static/media/361px-Mahmudullah_Riyad.d0d4e605.jpg",
+    "static/media/406px-Nayeem_Hasan_05.253fc29e.jpg": "./static/media/406px-Nayeem_Hasan_05.253fc29e.jpg",
+    "static/media/463px-Mominul_Haque.027fc904.jpg": "./static/media/463px-Mominul_Haque.027fc904.jpg",
+    "static/media/465px-Soumya_Sarkar.43d35a90.jpg": "./static/media/465px-Soumya_Sarkar.43d35a90.jpg",
+    "static/media/466px-Mosaddek_Hossain.73c74d7e.jpg": "./static/media/466px-Mosaddek_Hossain.73c74d7e.jpg",
+    "static/media/480px-Imrul_Kayes.3806bfde.jpg": "./static/media/480px-Imrul_Kayes.3806bfde.jpg",
+    "static/media/480px-Mushfiqur_Rahim.cad83d94.jpg": "./static/media/480px-Mushfiqur_Rahim.cad83d94.jpg",
+    "static/media/480px-Rubel_Hossain.8c6a06a3.jpg": "./static/media/480px-Rubel_Hossain.8c6a06a3.jpg",
+    "static/media/Mashrafe_conference_1.90692cc0.jpg": "./static/media/Mashrafe_conference_1.90692cc0.jpg",
+    "static/media/Tamim_Iqbal_Khan.f5da7351.jpg": "./static/media/Tamim_Iqbal_Khan.f5da7351.jpg",
+    "static/media/Taskin_Ahmed.ee3e858e.jpg": "./static/media/Taskin_Ahmed.ee3e858e.jpg",
+    "static/media/mehedi_hasan_miraj.4664a2f5.jpg": "./static/media/mehedi_hasan_miraj.4664a2f5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dbb545e2.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.e2282928.chunk.js",
+    "static/css/main.31ccbcbd.chunk.css",
+    "static/js/main.debd3b8a.chunk.js"
+  ]
+}
